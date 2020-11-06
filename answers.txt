@@ -1,0 +1,5 @@
+    1.Accesibility on the webpage is designed in a way so that people with disabilities are also able to navigate them without any problems as well.
+    2. Use alt tags, enure that you are using headers properly ie only 1 h1, not going overload with colors
+    3. the way that was most easily explained to me and i would pass on to anyone is that a variable is like a box or a chest. you put stuff into the chest. you assign it a value. var chest; chest = "some value";
+    4.To avoid repetitious code and allow it to be shared with other programmers 
+
